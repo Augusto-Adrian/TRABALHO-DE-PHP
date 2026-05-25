@@ -1,6 +1,6 @@
 ###
-trabalho por: Adrian augusto / Marcelino Marcos / Wesley
-Turma:251BNT
+//trabalho por: Adrian augusto / Marcelino Marcos / Wesley
+//Turma:251BNT
 ###
 
 teste.http:POST http://localhost/sistema/cliente.php
